@@ -1,0 +1,19 @@
+{
+  "fails": [
+    {
+      "name": "CDNJS",
+      "issue": "https://github.com/cdnjs/cdnjs/issues/4599",
+      "raised": "2015-04-30"
+    },
+    {
+      "name": "jQuery",
+      "issue": "https://github.com/jquery/codeorigin.jquery.com/issues/20",
+      "raised": "2015-07-22"
+    },
+    {
+      "name": "jsDelivr",
+      "issue": "https://github.com/jsdelivr/jsdelivr/issues/6029",
+      "raised": "2015-07-21"
+    }
+  ]
+}
