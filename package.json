@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node lib/build.js",
-    "deploy": "git checkout gh-pages; git merge master; git commit -m 'Latest bucket of failure'; echo 'If you are happy with this fail then `npm run release`';",
+    "deploy": "git checkout gh-pages; git merge master; git add .; git commit -m 'Latest bucket of failure'; echo 'If you are happy with this fail then `npm run release`';",
     "release": "git push --all"
   },
   "repository": {
