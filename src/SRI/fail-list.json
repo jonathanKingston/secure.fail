@@ -14,6 +14,11 @@
       "name": "jsDelivr",
       "issue": "https://github.com/jsdelivr/jsdelivr/issues/6029",
       "raised": "2015-07-21"
+    },
+    {
+      "name": "OSSCDN",
+      "issue": "https://github.com/MaxCDN/osscdn/issues/65",
+      "raised": "2015-07-28"
     }
   ]
 }
